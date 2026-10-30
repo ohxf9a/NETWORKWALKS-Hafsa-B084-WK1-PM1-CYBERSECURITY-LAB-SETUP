@@ -70,7 +70,7 @@ To prevent dynamic IP changes that could disrupt future scanning labs, I manuall
 * **Gateway:** `10.0.0.1`
 * **DNS Server:** `8.8.8.8`
 
-![Kali Linux Network Configuration Settings](kali-network-setti%20ng%20.png)
+![Kali Linux Network Configuration Settings](kali-network-setting.png)
 
 ---
 
