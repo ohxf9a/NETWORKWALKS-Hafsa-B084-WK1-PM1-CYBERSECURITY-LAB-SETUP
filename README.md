@@ -122,4 +122,4 @@ This laboratory environment is created strictly for educational purposes and aut
 * **Batch:** B084
 * **Week:** Week 01 - Project 01
 * **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub Repository:** [Your GitHub Repository Link]
+* **GitHub Repository:** [[Your GitHub Repository Link](https://github.com/ohxf9a/NETWORKWALKS-Hafsa-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/)]
